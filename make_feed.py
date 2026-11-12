@@ -3,7 +3,7 @@ import email.utils
 from datetime import datetime, timezone
 import xml.etree.ElementTree as ET
 
-BASE_URL = "https://github.io"
+BASE_URL = "https://flyhigh26136-web.github.io/my-podcast"
 SHOW_TITLE = "Love and Loyalty"
 AUTHOR = "flyhigh26136"
 EMAIL = "flyhigh26136@gmail.com"
