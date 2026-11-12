@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://itunes.com" xmlns:atom="http://w3.org">
   <channel>
-    <title>YOUR REAL PODCAST TITLE</title>
+    <title>Love and Loyalty</title>
     <link>https://github.io</link>
     <atom:link href="https://github.io/rss.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
@@ -13,14 +13,14 @@
     <itunes:image href="https://github.io/cover.jpg" />
     <itunes:owner>
       <itunes:name>flyhigh26136</itunes:name>
-      <itunes:email>you@example.com</itunes:email>
+      <itunes:email>flyhigh26136@gmail.com</itunes:email>
     </itunes:owner>
     <item>
       <title>XRecorder_20261110_01</title>
       <description>Episode: XRecorder_20261110_01.mp4</description>
       <link>https://github.io/XRecorder_20261110_01.mp4</link>
       <guid isPermaLink="false">https://github.io/XRecorder_20261110_01.mp4</guid>
-      <pubDate>Thu, 12 Nov 2026 06:37:20 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 06:43:15 +0000</pubDate>
       <enclosure url="https://github.io/XRecorder_20261110_01.mp4" length="811037" type="video/mp4" />
       <itunes:explicit>false</itunes:explicit>
     </item>

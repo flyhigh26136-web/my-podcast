@@ -4,9 +4,9 @@ from datetime import datetime, timezone
 import xml.etree.ElementTree as ET
 
 BASE_URL = "https://github.io"
-SHOW_TITLE = "YOUR REAL PODCAST TITLE"
+SHOW_TITLE = "Love and Loyalty"
 AUTHOR = "flyhigh26136"
-EMAIL = "you@example.com"
+EMAIL = "flyhigh26136@gmail.com"
 DESCRIPTION = "Video episodes hosted from Termux."
 CATEGORY = "Society & Culture"
 
