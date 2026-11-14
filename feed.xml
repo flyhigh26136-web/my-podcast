@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:itunes="http://://itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>INTENTIONALLY HIM</title>
+    <link>https://flyhigh26136-web.github.io/my-podcast</link>
+    <language>en-us</language>
+    <description>Media episodes from apple_ready folder</description>
+    <itunes:author>Podcast Host</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Podcast Host</itunes:name>
+      <itunes:email>INTENTIONALLY3651@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://flyhigh26136-web.github.io/my-podcast/cover_libsyn.jpg" />
+    <itunes:category text="TV &amp; Film" />
+    <item>
+      <title>motivation_USA_S02E01[_29992]</title>
+      <guid isPermaLink="false">motivation_USA_S02E01[_29992].mp4</guid>
+      <pubDate>Sat, 14 Nov 2026 01:22:04 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://flyhigh26136-web.github.io/my-podcast/motivation_USA_S02E01%5B_29992%5D.mp4" length="363683331" type="video/mp4" />
+    </item>
+    <item>
+      <title>motivation_USA_S02E02[_30302]</title>
+      <guid isPermaLink="false">motivation_USA_S02E02[_30302].mp4</guid>
+      <pubDate>Sat, 14 Nov 2026 01:21:53 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://flyhigh26136-web.github.io/my-podcast/motivation_USA_S02E02%5B_30302%5D.mp4" length="356110047" type="video/mp4" />
+    </item>
+    <item>
+      <title>motivation_USA_S02E03[_30762]</title>
+      <guid isPermaLink="false">motivation_USA_S02E03[_30762].mp4</guid>
+      <pubDate>Sat, 14 Nov 2026 01:22:19 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://flyhigh26136-web.github.io/my-podcast/motivation_USA_S02E03%5B_30762%5D.mp4" length="389831972" type="video/mp4" />
+    </item>
+  </channel>
+</rss>
